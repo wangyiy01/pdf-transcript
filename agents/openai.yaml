@@ -1,0 +1,6 @@
+interface:
+  display_name: "逐字稿"
+  short_description: "把截图 PDF 整理成易读逐字稿文档"
+  default_prompt: "Use $pdf-transcript to turn this screenshot-based PDF into a readable transcript document."
+policy:
+  allow_implicit_invocation: true
